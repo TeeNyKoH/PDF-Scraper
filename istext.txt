@@ -1,0 +1,76 @@
+ 
+Compiled by Registrar’s Office. Information as at 15 March 2022.  1 SIT Internal  
+ 
+Bachelor of Engineering with Honours in Information & Communications Technology majoring in Information Security Applicable for AY2022 student intake onwards. Module Code and Title Type CR 
+YEAR 1 TRIMESTER 1    
+ICT1011 Computer Organization & Architecture  Core  6 
+INF1001 Introduction to Computing  Core  6 
+INF1002 Programming Fundamentals  Core  6 
+INF1003 Mathematics 1  Core  6 
+UDC1001 Digital Competency Essentials  University  2 
+ICT4012A Integrated Work Study Programme (Career Skills)  Core  - 
+TOTAL   26 
+YEAR 1 TRIMESTER 2    
+ICT1012 Operating Systems  Core  6 
+INF1004 Mathematics 2  Core  6 
+ICT1013 Computer Networks  Core  6 
+INF1005 Web Systems & Technologies  Core  6 
+INF1009 Object -Oriented Programming  Core  6 
+ICT4012A Integrated Work Study Programme (Career Skills)  Core  - 
+TOTAL   30 
+YEAR 1 TRIMESTER 3    
+INF1007 Ethics and Professional Conducts  Core  6 
+INF1008 Data Structures and Algorithms  Core  6 
+UCS1001 Critical Thinking and Communicating  University  4 
+UDE1001 Introduction to Design Innovation  University  2 
+ICT4012A Integrated Work Study Programme (Career Skills)  Core  - 
+TOTAL   18 
+YEAR 2 TRIMESTER 1    
+INF2001 Introduction to Software Engineering  Core  6 
+ICT2217 Network Security  Core  6 
+ICT2212 Ethical Hacking  Core  6 
+INF2004 Embedded Systems Programming  Core  6 
+UDE2001 Interdisciplinary Design Innovation  University  4 
+ICT4012A Integrated Work Study Programme (Career Skills)  Core  - 
+TOTAL   28 
+YEAR 2 TRIMESTER 2    
+ICT2213 Applied Cryptography  Core  6 
+ICT2214 Web Security  Core  6 
+ICT2215 Mobile and Embedded Security  Core  6 
+INF2008 Machine Learning  Core  6 
+UCM3001 Change Management  Core  6 
+TOTAL   30 
+YEAR 2 TRIMESTER 3    
+ICT2114 Integrative Team Project  Core  6 
+ICT2216 Secure Software Development  Core  6 
+USI2001 Social Innovation Project  University  3 
+TOTAL   15 
+YEAR 3 TRIMESTER 1    
+ICT3212 Operations Security and Incident Management  Core  6  
+Compiled by Registrar’s Office. Information as at 15 March 2022.  2 SIT Internal  
+ 
+Module Code and Title Type CR 
+ICT3213 Malware Analysis and Defence  Core  6 
+ICT3215 Digital Forensics  Core  6 
+ICT3214 Security Analytics  Core  6 
+TOTAL   24 
+YEAR 3 TRIMESTER 2    
+ICT3217 Specialised R&D Project  Core  6 
+ICT3219 Industry Certification Module  Core  6 
+ICT3218 Security Governance, Risk Management and Compliance  Core  6 
+ICT3216 Special Topics in Security  Core  6 
+TOTAL   24 
+YEAR 3 TRIMESTER 3   
+ICT4011 Capstone Project  Core  5 
+ICT4012B Integrated Work Study Programme (Work Attachment)  Core  10 
+TOTAL   15 
+YEAR 4 TRIMESTER 1   
+ICT4011 Capstone Project  Core  5 
+ICT4012B Integrated Work Study Programme (Work Attachment)  Core  10 
+TOTAL   15 
+YEAR 4 TRIMESTER 2   
+ICT4011 Capstone Project  Core  5 
+ICT4012B Integrated Work Study Programme (Work Attachment)  Core  10 
+TOTAL   15 
+GRAND TOTAL   240 
+ 

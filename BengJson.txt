@@ -1,0 +1,91 @@
+{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT1011 , "ModName": Computer Organization & Architecture, "Year":YEAR 1 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1001 , "ModName": Introduction to Computing, "Year":YEAR 1 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1002 , "ModName": Programming Fundamentals, "Year":YEAR 1 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1003 , "ModName": Mathematics 1, "Year":YEAR 1 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": UDC1001 , "ModName": Digital Competency Essentials, "Year":YEAR 1 , "Tri": 1    
+, "ModType": Elective, "Credits": 2 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012A, "ModName": Integrated Work Study Programme (Career Skills), "Year":YEAR 1 , "Tri": 1    
+, "ModType": Core, "Credits": - 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT1012 , "ModName": Operating Systems, "Year":YEAR 1 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1004 , "ModName": Mathematics 2, "Year":YEAR 1 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1005 , "ModName": Web Systems & Technologies, "Year":YEAR 1 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1009 , "ModName": Object -Oriented Programming, "Year":YEAR 1 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": UCS1001 , "ModName": Critical Thinking and Communicating, "Year":YEAR 1 , "Tri": 2    
+, "ModType": Elective, "Credits": 4 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012A, "ModName": Integrated Work Study Programme (Career Skills), "Year":YEAR 1 , "Tri": 2    
+, "ModType": Core, "Credits": - 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1006 , "ModName": Computer Networks, "Year":YEAR 1 , "Tri": 3    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1007 , "ModName": Ethics and Professional Conducts, "Year":YEAR 1 , "Tri": 3    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF1008 , "ModName": Data Structures and Algorithms, "Year":YEAR 1 , "Tri": 3    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": UDE1001 , "ModName": Introduction to Design Innovation, "Year":YEAR 1 , "Tri": 3    
+, "ModType": Elective, "Credits": 2 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012A, "ModName": Integrated Work Study Programme (Career Skills), "Year":YEAR 1 , "Tri": 3    
+, "ModType": Core, "Credits": - 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2001 , "ModName": Introduction to Software Engineering, "Year":YEAR 2 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2002 , "ModName": Human Computer Interaction, "Year":YEAR 2 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2003 , "ModName": Database Systems, "Year":YEAR 2 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2004 , "ModName": Embedded Systems Programming, "Year":YEAR 2 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": UDE2001 , "ModName": Interdisciplinary Design Innovation, "Year":YEAR 2 , "Tri": 1    
+, "ModType": Elective, "Credits": 4 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012A, "ModName": Integrated Work Study Programme (Career Skills), "Year":YEAR 2 , "Tri": 1    
+, "ModType": Core, "Credits": - 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT2112 , "ModName": Software Design, "Year":YEAR 2 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT2113 , "ModName": Software Modelling and Analysis, "Year":YEAR 2 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT2215 , "ModName": Mobile and Embedded Security, "Year":YEAR 2 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2007 , "ModName": Mobile Application Development, "Year":YEAR 2 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT2114 , "ModName": Integrative Team Project, "Year":YEAR 2 , "Tri": 3    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT2216 , "ModName": Secure Software Development, "Year":YEAR 2 , "Tri": 3    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT3219 , "ModName": Industry Certification Module, "Year":YEAR 2 , "Tri": 3    
+, "ModType": Core, "Credits":   
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2005 , "ModName": Cyber Security Fundamentals, "Year":YEAR 2 , "Tri": 3    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT3112 , "ModName": Software Verification and Validation, "Year":YEAR 3 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT3113 , "ModName": Performance Testing and Optimisation, "Year":YEAR 3 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2006 , "ModName": Cloud Computing and Big Data, "Year":YEAR 3 , "Tri": 1    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": USI2001 , "ModName": Social Innovation Project, "Year":YEAR 3 , "Tri": 1    
+, "ModType": Elective, "Credits": 3 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT3217 , "ModName": Specialised R&D Project, "Year":YEAR 3 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2008 , "ModName": Machine Learning, "Year":YEAR 3 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": INF2009 , "ModName": Edge Computing and Analytics, "Year":YEAR 3 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": UCM3001 , "ModName": Change Management, "Year":YEAR 3 , "Tri": 2    
+, "ModType": Core, "Credits": 6 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4011 , "ModName": Capstone Project, "Year":YEAR 3 , "Tri": 3   
+, "ModType": Core, "Credits": 5 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012B, "ModName": Integrated Work Study Programme (Work Attachment), "Year":YEAR 3 , "Tri": 3   
+, "ModType": Core, "Credits": 0 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4011 , "ModName": Capstone Project, "Year":YEAR 4 , "Tri": 1   
+, "ModType": Core, "Credits": 5 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012B, "ModName": Integrated Work Study Programme (Work Attachment), "Year":YEAR 4 , "Tri": 1   
+, "ModType": Core, "Credits": 0 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4011 , "ModName": Capstone Project, "Year":YEAR 4 , "Tri": 2   
+, "ModType": Core, "Credits": 5 
+}{"CourseName":Bachelor of Engineering with Honours in Information & Communications Technology majoring in Software Engineering , "ModCode": ICT4012B, "ModName": Integrated Work Study Programme (Work Attachment), "Year":YEAR 4 , "Tri": 2   
+, "ModType": Core, "Credits": 0 
+}

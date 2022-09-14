@@ -1,0 +1,61 @@
+ 
+Compiled by Registrar’s Office. Information updated as at 10 May 2022. 1  SIT Internal  
+Bachelor of Science with Honours in Applied Computing Term-In Term-Out (TITO) Pathway  Applicable for AY2022 Student Intake onwards.  Module Code and Title Type CR 
+YEAR 1 TRIMESTER 1    
+BAC3003A Integrated Work Study Programme (Career Skills)  Core  - 
+INF1002 Programming Fundamentals  Core  6 
+INF1003 Mathematics 1  Core  6 
+INF1101 Introduction to Computer Systems  Core  6 
+UCS1001 Critical Thinking and Communicating  University  4 
+UDC1001 Digital Competency Essentials  University  2 
+UDE1001 Introduction to Design Innovation  University  2 
+TOTAL   26 
+YEAR 1 TRIMESTER 2    
+BAC3003A Integrated Work Study Programme (Career Skills)  Core  - 
+INF1004 Mathematics 2  Core  6 
+INF1005 Web Systems and Technologies  Core  6 
+INF1006 Computer Networks  Core  6 
+INF1008 Data Structures and Algorithms  Core  6 
+INF1009 Object Oriented Programming  Core  6 
+TOTAL   30 
+YEAR 1 TRIMESTER 3    
+BAC1001 Introduction to Fintech  Core  6 
+BAC3003A Integrated Work Study Programme (Career Skills)  Core  - 
+TOTAL   6 
+YEAR 2 TRIMESTER 1   
+ACC1024 Foundations of Finance  Core  6 
+BAC3003A Integrated Work Study Programme (Career Skills)  Core  - 
+INF2001 Introduction to Software Engineering  Core  6 
+INF2003 Database Systems  Core  6 
+INF2006 Cloud Computing and Big Data  Core  6 
+UDE2001 Interdisciplinary Design Innovation  University  4 
+TOTAL   28 
+YEAR 2 TRIMESTER 2   
+AAI1001 Data Engineering and Visualization  Core  6 
+ACC2026 Investment Risk Management  Core  6 
+BAC2001 Software Requirements Engineering and Design  Core  6 
+BAC2002 Blockchain and Cryptocurrency  Core  6 
+INF2008 Machine Learning  Core  6 
+TOTAL   30 
+YEAR 2 TRIMESTER 3   
+BAC2003 Fintech projects  Core  6 
+TOTAL   6 
+YEAR 3 TRIMESTER 1   
+BAC3001 Business Valuation and Analysis  Core  6 
+BAC3002 Fintech: Advanced Topics  Core  6 
+CEG2013  Project Management and Professional Ethics  Core  3 
+INF2005 Cyber Security Fundamentals  Core  6  
+Compiled by Registrar’s Office. Information updated as at 10 May 2022. 2  SIT Internal  
+Module Code and Title Type CR 
+USI200 1 Social Innovation Project  University  3 
+TOTAL   24 
+YEAR 3 TRIMESTER 2   
+BAC3003B Integrated Work Study Programme (Work Attachment)  Core  10 
+BAC3004 Capstone  Project  Core  5 
+TOTAL   15 
+YEAR 3 TRIMESTER 3   
+BAC3003B Integrated Work Study Programme (Work Attachment)  Core  10 
+BAC3004 Capstone  Project  Core  5 
+TOTAL   15 
+GRAND TOTAL   180 
+ 
